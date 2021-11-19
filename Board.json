@@ -1,324 +1,284 @@
 {
-    "Space":[
+    "Space": [
       { "BID": 0,
-        "Type": 
-        {"Type": "Misc",
-        "Color": "None"
-        }, 
+        "Type": "Misc",
+        "Color": "None",
         "Title": "GO!",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       }, 
       { "BID": 1,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Brown"
-        },   
+        "Type": "Property",
+        "Color": "Brown",
         "Title": "Mediterranean Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 250
       },
       { "BID": 2,
-        "Type": 
-        {"Type": "Card",
-         "Color": "Community"
-        },   
+        "Type": "Card",
+        "Color": "Community",  
         "Title": "Community Chest",
-        "Landed": 0
+        "Landed": 0, 
+        "Pay": 0
       },
       { "BID": 3,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Brown"
-        },   
+        "Type": "Property",
+        "Color": "Brown",  
         "Title": "Baltic Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 450
       },
       { "BID": 4,
-        "Type": 
-        {"Type": "Misc",
-         "Color": "None"
-        },   
+        "Type": "Misc",
+        "Color": "None",
         "Title": "Income Tax",
-        "Landed": 0
+        "Landed": 0, 
+        "Pay": 0
       },
       { "BID": 5,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Railroad"
-        },   
+        "Type": "Property",
+        "Color": "Railroad",  
         "Title": "Reading Railroad",
-        "Landed": 0
+        "Landed": 0, 
+        "Pay": 200
       },
       { "BID": 6,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Light Blue"
-        },   
+        "Type": "Property",
+        "Color": "Light Blue",  
         "Title": "Oriental Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 550
       },
       { "BID": 7,
-        "Type": 
-        {"Type": "Card",
-         "Color": "Chance"
-        },   
+        "Type": "Card",
+        "Color": "Chance", 
         "Title": "Chance",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 550
       },
       { "BID": 8,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Light Blue"
-        },   
+        "Type": "Property",
+        "Color": "Light Blue",  
         "Title": "Vermont Avenue",
-        "Landed": 0
+        "Landed": 0, 
+        "Pay": 550
       },
       { "BID": 9,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Light Blue"
-        },   
+        "Type": "Property",
+        "Color": "Light Blue", 
         "Title": "Connecticut Avenue",
-        "Landed": 0
+        "Landed": 0, 
+        "Pay": 600
       },
       { "BID": 10,
-        "Type": 
-        {"Type": "Misc",
-         "Color": "None"
-        },   
+        "Type": "Misc",
+        "Color": "None",
         "Title": "In Jail",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 11,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Pink"
-        },   
+        "Type": "Property",
+        "Color": "Pink",
         "Title": "St. Charles Place",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 750
       },
       { "BID": 12,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Utilities"
-        },   
+        "Type": "Property",
+        "Color": "Utilities",
         "Title": "Electric Company",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 70
       },
       { "BID": 13,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Pink"
-        },   
+        "Type": "Property",
+        "Color": "Pink",
         "Title": "States Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 750
       },
       { "BID": 14,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Pink"
-        },   
+        "Type": "Property",
+        "Color": "Pink",  
         "Title": "Virginia Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 900
       },
       { "BID": 15,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Railroad"
-        },   
+        "Type": "Property",
+        "Color": "Railroad",
         "Title": "Pennsylvania Railroad",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 200
       },
       { "BID": 16,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Orange"
-        },   
+        "Type": "Property",
+        "Color": "Orange",
         "Title": "St. James Place",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 950
       },
       { "BID": 17,
-        "Type": 
-        {"Type": "Card",
-         "Color": "Community"
-        },   
+        "Type": "Card",
+        "Color": "Community",
         "Title": "Community Chest",
-        "Landed": 0
+        "Landed": 0, 
+        "Pay": 0
       },
       { "BID": 18,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Orange"
-        },   
+        "Type": "Property",
+        "Color": "Orange", 
         "Title": "Tennessee Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 950
       },
       { "BID": 19,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Orange"
-        },   
+        "Type": "Property",
+        "Color": "Orange",
         "Title": "New York Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1000
       },
       { "BID": 20,
-        "Type": 
-        {"Type": "Misc",
-         "Color": "None"
-        },   
+        "Type": "Misc",
+        "Color": "None",
         "Title": "Free Parking",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 21,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Red"
-        },   
+        "Type": "Property",
+        "Color": "Red", 
         "Title": "Kentucky Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1050
       },
       { "BID": 22,
-        "Type": 
-        {"Type": "Card",
-         "Color": "Chance"
-        },   
+        "Type": "Card",
+         "Color": "Chance",
         "Title": "Chance",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 23,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Red"
-        },   
+        "Type": "Property",
+        "Color": "Red", 
         "Title": "Indiana Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1050
       },
       { "BID": 24,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Red"
-        },   
+        "Type": "Property",
+        "Color": "Red",
         "Title": "Illinois Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1100
       },
       { "BID": 25,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Railroad"
-        },   
+        "Type": "Property",
+        "Color": "Railroad", 
         "Title": "B&O Railroad",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 200
       },
       { "BID": 26,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Yellow"
-        },   
+        "Type": "Property",
+        "Color": "Yellow",
         "Title": "Atlantic Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1150
       },
       { "BID": 27,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Yellow"
-        },   
+        "Type": "Property",
+        "Color": "Yellow",
         "Title": "Ventnor Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1150
       },
       { "BID": 28,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Utilities"
-        },   
+        "Type": "Property",
+        "Color": "Utilities",
         "Title": "Water Works",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 70
       },
       { "BID": 29,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Yellow"
-        },   
+        "Type": "Property",
+        "Color": "Yellow",
         "Title": "Marvin Gardens",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1200
       },
       { "BID": 30,
-        "Type": 
-        {"Type": "Misc",
-         "Color": "None"
-        },   
+        "Type": "Misc",
+        "Color": "None", 
         "Title": "Go to Jail",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 31,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Green"
-        },   
+        "Type": "Property",
+        "Color": "Green",
         "Title": "Pacific Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1275
       },
       { "BID": 32,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Green"
-        },   
+        "Type": "Property",
+        "Color": "Green", 
         "Title": "North Carolina Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1275
       },
       { "BID": 33,
-        "Type": 
-        {"Type": "Card",
-         "Color": "Community"
-        },   
+        "Type": "Card",
+        "Color": "Community", 
         "Title": "Community Chest",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 34,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Green"
-        },   
+        "Type": "Property",
+         "Color": "Green",
         "Title": "Pennsylvania Avenue",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1400
       },
       { "BID": 35,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Railroad"
-        },   
+        "Type": "Property",
+        "Color": "Railroad",
         "Title": "Short Line",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 200
       },
       { "BID": 36,
-        "Type": 
-        {"Type": "Card",
-         "Color": "Chance"
-        },   
+        "Type": "Card",
+        "Color": "Chance",
         "Title": "Chance",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 37,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Blue"
-        },   
+        "Type": "Property",
+        "Color": "Blue",
         "Title": "Park Place",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 1500
       },
       { "BID": 38,
-        "Type": 
-        {"Type": "Misc",
-         "Color": "None"
-        },   
+        "Type": "Misc",
+        "Color": "None",
         "Title": "Luxery Tax",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 0
       },
       { "BID": 39,
-        "Type": 
-        {"Type": "Property",
-         "Color": "Blue"
-        },   
+        "Type": "Property",
+        "Color": "Blue",
         "Title": "Boardwalk",
-        "Landed": 0
+        "Landed": 0,
+        "Pay": 2000
       }
       
     ]
