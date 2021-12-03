@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\DnD Game"
 		}
 	],
 	"settings": {}
